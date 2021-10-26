@@ -1,0 +1,2 @@
+# firstcode
+i fuck code
